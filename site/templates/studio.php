@@ -52,7 +52,7 @@
       </div>
     </div>
     <div class="team-members">
-      <h2 class="divider-headline">Emplyoees</h2>
+      <h2 class="divider-headline">Employees</h2>
       <div class="member span-5 append-1">
         <h3 class="member__name">Ilya Boyandin</h3>
         <p class="member__description">

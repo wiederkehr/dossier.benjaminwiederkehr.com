@@ -169,6 +169,201 @@ h3.member__name {
 .member__title { 
 }
 /*
+WORK
+/////////////////////////////////////////////////////////////////*/
+.work-projects{
+  clear: both;
+  overflow: hidden;
+}
+.projects__claim{
+  font: italic 14px/21px "Georgia", Georgia, serif; color: #aaa;
+}
+.project{
+  background: #ddd;
+  margin-bottom: 10px;
+}
+h3.project__name { 
+  font-size: 18px; 
+  margin-top: 0;
+  color: #fff;
+}
+.project__text{
+  padding: 20px 10px;
+  background: rgba(255,255,255,0.1);
+}
+.project__image {
+  background-color: black;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 0%;
+  transition: background 200ms;
+}
+.project__image a{
+  font-family: "ff-netto-web",sans-serif;
+  color: transparent;
+  display: block;
+  padding: 0 20px;
+  margin: 0;
+  text-align: center;
+  transition: background 200ms;
+  text-transform: uppercase;
+}
+.project__image a:hover{
+  color: #fff;
+}
+.project__image:hover{
+}
+.project__description {
+  font: italic 14px/21px "Georgia", Georgia, serif;
+  color: rgba(255,255,255,0.5);
+  margin: 0;
+}
+.page-content p.project__description{
+  font-size: 14px;
+}
+.project__description span{
+  display: block;
+}
+
+.vspan-1 {min-height: 30px;}
+.vspan-2 {min-height: 70px;}
+.vspan-3 {min-height: 110px;}
+.vspan-4 {min-height: 150px;}
+.vspan-5 {min-height: 190px;}
+.vspan-6 {min-height: 230px;}
+.vspan-7 {min-height: 270px;}
+.vspan-8 {min-height: 310px;}
+.vspan-9 {min-height: 350px;}
+.vspan-10 {min-height: 390px;}
+.vspan-11 {min-height: 430px;}
+.vspan-12 {min-height: 470px;}
+.vspan-13 {min-height: 510px;}
+.vspan-14 {min-height: 550px;}
+.vspan-15 {min-height: 590px;}
+.vspan-16 {min-height: 630px;}
+.vspan-17 {min-height: 670px;}
+.vspan-18 {min-height: 710px;}
+.vspan-19 {min-height: 750px;}
+.vspan-20 {min-height: 790px;}
+.vspan-21 {min-height: 830px;}
+.vspan-22 {min-height: 870px;}
+.vspan-23 {min-height: 910px;}
+
+.project__image.vspan-1 a {line-height: 30px;}
+.project__image.vspan-2 a {line-height: 70px;}
+.project__image.vspan-3 a {line-height: 110px;}
+.project__image.vspan-4 a {line-height: 150px;}
+.project__image.vspan-5 a {line-height: 190px;}
+.project__image.vspan-6 a {line-height: 230px;}
+.project__image.vspan-7 a {line-height: 270px;}
+.project__image.vspan-8 a {line-height: 310px;}
+.project__image.vspan-9 a {line-height: 350px;}
+.project__image.vspan-10 a {line-height: 390px;}
+.project__image.vspan-11 a {line-height: 430px;}
+.project__image.vspan-12 a {line-height: 470px;}
+.project__image.vspan-13 a {line-height: 510px;}
+.project__image.vspan-14 a {line-height: 550px;}
+.project__image.vspan-15 a {line-height: 590px;}
+.project__image.vspan-16 a {line-height: 630px;}
+.project__image.vspan-17 a {line-height: 670px;}
+.project__image.vspan-18 a {line-height: 710px;}
+.project__image.vspan-19 a {line-height: 750px;}
+.project__image.vspan-20 a {line-height: 790px;}
+.project__image.vspan-21 a {line-height: 830px;}
+.project__image.vspan-22 a {line-height: 870px;}
+.project__image.vspan-23 a {line-height: 910px;}
+
+.project--candeo                    { background: rgba(151, 138, 62, 1);}
+.project--candeo .project__image    { background-image: url('../img/work_candeo.png');}
+.project--candeo a                  { background: rgba(151, 138, 62, 0.15);}
+.project--candeo a:hover            { background: rgba(151, 138, 62, 0.8);}
+
+.project--youcity                   { background: rgba(95, 17, 14, 1);}
+.project--youcity .project__image   { background-image: url('../img/work_youcity.png');}
+.project--youcity a                 { background: rgba(95, 17, 14, 0.15);}
+.project--youcity a:hover           { background: rgba(95, 17, 14, 0.8);}
+
+.project--ecoplace                    { background: rgba(52,60,65, 1);}
+.project--ecoplace .project__image    { background-image: url('../img/work_ecoplace.png');}
+.project--ecoplace a                  { background: rgba(52,60,65, 0.15);}
+.project--ecoplace a:hover            { background: rgba(52,60,65, 0.8);}
+
+.project--villevivante                   { background: rgba(10, 21, 37, 1);}
+.project--villevivante .project__image   { background-image: url('../img/work_villevivante.png');}
+.project--villevivante a                 { background: rgba(10, 21, 37, 0.15);}
+.project--villevivante a:hover           { background: rgba(10, 21, 37, 0.8);}
+
+
+.project--ewm                    { background: rgba(86, 120, 161, 1);}
+.project--ewm .project__image    { background-image: url('../img/work_ewm.png');}
+.project--ewm a                  { background: rgba(86, 120, 161, 0.15);}
+.project--ewm a:hover            { background: rgba(86, 120, 161, 0.8);}
+
+.project--hellowallet                   { background: rgba(18, 125, 161, 1);}
+.project--hellowallet .project__image   { background-image: url('../img/work_hellowallet.png');}
+.project--hellowallet a                 { background: rgba(18, 125, 161, 0.15);}
+.project--hellowallet a:hover           { background: rgba(18, 125, 161, 0.8);}
+
+.project--fipo                    { background: rgba(52,60,65, 1);}
+.project--fipo .project__image    { background-image: url('../img/fipo.png');}
+.project--fipo a                  { background: rgba(52,60,65, 0.15);}
+.project--fipo a:hover            { background: rgba(52,60,65, 0.8);}
+
+.project--master                   { background: rgba(43, 104, 152, 1);}
+.project--master .project__image   { background-image: url('../img/work_master.png');}
+.project--master a                 { background: rgba(43, 104, 152, 0.15);}
+.project--master a:hover           { background: rgba(43, 104, 152, 0.8);}
+
+
+.project--wide                    { background: rgba(83, 173, 165, 1);}
+.project--wide .project__image    { background-image: url('../img/work_wide.png');}
+.project--wide a                  { background: rgba(83, 173, 165, 0.15);}
+.project--wide a:hover            { background: rgba(83, 173, 165, 0.8);}
+
+.project--wef .project__image   { height: 215px;}
+.project--wef .project__image a { line-height: 215px;}
+.project--wef                   { background: rgba(38, 121, 189, 1);}
+.project--wef .project__image   { background-image: url('../img/work_wef.png');}
+.project--wef a                 { background: rgba(38, 121, 189, 0.15);}
+.project--wef a:hover           { background: rgba(38, 121, 189, 0.8);}
+
+.project--snsf .project__image   { height: 215px;}
+.project--snsf .project__image a { line-height: 215px;}
+.project--snsf                    { background: rgba(146, 190, 218, 1);}
+.project--snsf .project__image    { background-image: url('../img/work_snsf.png');}
+.project--snsf a                  { background: rgba(146, 190, 218, 0.25);}
+.project--snsf a:hover            { background: rgba(146, 190, 218, 0.8);}
+
+.project--zhaw                   { background: rgba(211, 179, 124, 1);}
+.project--zhaw .project__image   { background-image: url('../img/work_zhaw.png');}
+.project--zhaw a                 { background: rgba(211, 179, 124, 0.15);}
+.project--zhaw a:hover           { background: rgba(211, 179, 124, 0.8);}
+
+
+.project--fukushima                    { background: rgba(229, 133, 147, 1);}
+.project--fukushima .project__image    { background-image: url('../img/work_fukushima.png');}
+.project--fukushima a                  { background: rgba(229, 133, 147, 0.1);}
+.project--fukushima a:hover            { background: rgba(229, 133, 147, 0.8);}
+
+.project--frauenwelten                   { background: rgba(78, 117, 137, 1);}
+.project--frauenwelten .project__image   { background-image: url('../img/work_frauenwelten.png');}
+.project--frauenwelten a                 { background: rgba(78, 117, 137, 0.15);}
+.project--frauenwelten a:hover           { background: rgba(78, 117, 137, 0.8);}
+
+.project--lobbyisten                    { background: rgba(166, 85, 88, 1);}
+.project--lobbyisten .project__image    { background-image: url('../img/work_lobbyisten.png');}
+.project--lobbyisten a                  { background: rgba(166, 85, 88, 0.15);}
+.project--lobbyisten a:hover            { background: rgba(166, 85, 88, 0.8);}
+
+.project--weltenbrand                   { background: rgba(8, 71, 98, 1);}
+.project--weltenbrand .project__image   { background-image: url('../img/work_weltenbrand.png');}
+.project--weltenbrand a                 { background: rgba(8, 71, 98, 0.15);}
+.project--weltenbrand a:hover           { background: rgba(8, 71, 98, 0.8);}
+
+.project__image a:hover{
+  /*background: transparent !important;*/
+}
+/*
 SECONDARY
 /////////////////////////////////////////////////////////////////*/
 .secondary                { color: #aaa;}
