@@ -6,16 +6,4 @@ Subtitle: Dossier
 
 ----
 
-Lead: Benjamin Wiederkehr is an interaction Designer with a focus on information visualization and interface design. With his work, he explores opportunities to innovate through the combination of design and technology, to simplify complex data in order to raise awareness, comprehension and engagement, and to tell stories with an open intent and meaningful impact.
-
-----
-
-Vita: Benjamin Wiederkehr is an interaction Designer with a focus on information visualization and interface design. With his work, he explores opportunities to innovate through the combination of design and technology, to simplify complex data in order to raise awareness, comprehension and engagement, and to tell stories with an open intent and meaningful impact.
-
-----
-
-Work: Over the past years Benjamin Wiederkehr has worked within a broad variety of domains. Looking back, his contribu- tions to different efforts to advance the current state of the art in research and practice can be clustered into these four emerging topics smart Cities, Personal Finance, open research, and interactive stories.
-
-----
-
-Studio: With the establishment of the design studio interactive Things in 2009, Benjamin Wiederkehr has been assigned with the role of managing director leading the strategic development of the company. Building an ideal environment for talented designers to contribute their best work to meaningful projects has been his most important focus ever since.
+Lead: Benjamin Wiederkehr is an Interaction Designer with a focus on information visualization and interface design. With his work, he explores opportunities to innovate through the combination of design and technology, to simplify complex data in order to raise awareness, comprehension and engagement, as well as to tell stories with an open intent and meaningful impact.

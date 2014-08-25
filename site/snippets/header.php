@@ -11,7 +11,7 @@
   <meta name="Author" content="<?= html($site->author()) ?>" />
   <meta name="Copyright" content="<?= $site->copyright() ?>" />
   <meta name="Distribution" content="Global" />
-  <meta name="Language" content="en" />
+  <meta name="Language" content="EN" />
   <meta name="Robots" content="ALL" />
   <meta property="og:title" content="<?= html($site->title()) ?>" />
   <meta property="og:description" content="<?= html($site->description()) ?>" />

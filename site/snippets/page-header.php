@@ -36,4 +36,4 @@
   <script>try{Typekit.load();}catch(e){}</script>
 </head>
 
-<body>
+<body class="body--<?= strtolower($page->title()) ?>">
