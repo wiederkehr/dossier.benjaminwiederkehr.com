@@ -1,0 +1,87 @@
+@charset "utf-8";
+/*
+Notes Styles
+Description:    Layout and element specific styling for the dossier
+Author:         Benjamin Wiederkehr
+Start:          140823_BW
+Last update:    140823_BW
+
+/* OVERRIDE
+/////////////////////////////////////////////////////////////////*/
+h1, h2 { font-family: "ff-netto-web",sans-serif;}
+h2     { margin:  1.8em 0 1em;}
+h3     { font-weight: bold; margin-bottom: 0.5em;}
+h3.ui  { color: #aaa; font-size: 12px; margin-top: 20px; font-weight: normal; margin-bottom: 2px; text-transform: uppercase;}
+
+/* HEADER
+/////////////////////////////////////////////////////////////////*/
+#header         	{ padding-top: 30px;}
+#header h1        { margin: 0;}
+#header h1 a    	{ display: block; background: url('../img/logos/benjaminwiederkehr_logo_dark.png') -20px 0 no-repeat;}
+#header h1 a img	{ margin: 0 0 0 -20px; float: none;}
+
+/* CONTENT
+/////////////////////////////////////////////////////////////////*/
+#content			    { padding-bottom: 72px; float: right;}
+
+/* CONTENT HEADER
+/////////////////////////////////////////////////////////////////*/
+#content-header   { padding-top: 30px;} 
+#content-header h1{ font-size: 32px; margin: 95px 0 0 0; font-weight: bold; text-transform: uppercase;}
+#content-header h2{ font-size: 32px; margin: 0 0 1em; font-weight: normal; text-transform: uppercase;}
+
+#content-header .lead{ 
+  font: italic 18px / 1.5 "Georgia", Georgia, serif;
+}
+
+@media (max-width: 767px) {
+  #header           { height: auto;}
+  #content-header   { height: auto;}
+  #content-header h1{ margin-top: 0;}
+}
+
+/* PAGE
+/////////////////////////////////////////////////////////////////*/
+.page-content h2    { 
+  color: #aaa; 
+  font-size: 12px;
+  font-weight: normal; 
+  margin-top: 20px; 
+  text-transform: uppercase;
+  padding-bottom: 2px; 
+  border-bottom: 3px solid #d4d5d3;
+}
+.page-content h3 { 
+  font-family: "ff-netto-web",sans-serif;
+  font-size: 24px;
+  margin: 2.5em 0 0.5em;
+}
+.page-content p {
+  font-size: 16px;
+}
+
+/*
+SECONDARY
+/////////////////////////////////////////////////////////////////*/
+.secondary                { color: #aaa;}
+.secondary a              { color: #aaa; font-weight: bold; text-decoration: none; transition: color 0.2s;}
+.secondary a:hover        { color: #444;}
+.secondary p              { font-size: 11px; margin: 0 0 40px;}
+.secondary ul             { font-size: 11px; list-style: none; margin: 0 0 40px; padding: 0;}
+.secondary ul li a        { line-height: 20px; display: block; border-bottom: 1px solid #d4d5d3;}
+.secondary ul li a:hover  { text-decoration: none; border-bottom: 1px solid #aaa; outline: none;}
+.secondary ul li a.active { border-bottom: 1px solid #bbb; color: #444;}
+.secondary dl             { font-size: 11px; margin: 0 0 40px;}
+.secondary dt             { float: none; margin-top: 1em;}
+
+/* SIDEBAR
+/////////////////////////////////////////////////////////////////*/
+#sidebar                { float: left;}
+#sidebar h3.ui          { padding-bottom: 2px; margin-bottom: 15px; border-bottom: 3px solid #d4d5d3;}
+#sidebar p.sidebar-lead { font: italic 14px/21px "Georgia", Georgia, serif; color: #aaa; margin-top: 36px;}
+
+/*
+CREDITS
+/////////////////////////////////////////////////////////////////*/
+#credits        { color: #aaa; padding-bottom: 60px;}
+#credits h3.ui  { padding-bottom: 2px; margin-bottom: 15px; border-bottom: 3px solid #d4d5d3;}

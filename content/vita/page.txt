@@ -1,0 +1,41 @@
+Title: Vita
+
+----
+
+Lead: 
+Benjamin Wiederkehr is an interaction Designer with a focus on information visualization and interface design. With his work, he explores opportunities to innovate through the combination of design and technology, to simplify complex data in order to raise awareness, comprehension and engagement, and to tell stories with an open intent and meaningful impact.
+
+----
+
+Text:
+## Résumé
+
+### Work
+Benjamin Wiederkehr is founding partner and managing director of interactive Things, a design and technology studio established by Benjamin Wiederkehr, Christian siegrist and Jeremy stucki in 2009 and led together with their partners Peter Gassner and Christoph schmid. interactive Things works at the intersection of science, technology, and design to help their clients to establish engaging and emotional interactions between them and their audience. The Zurich-based team currently consists of 12 multi-facetted designers and developers with backgrounds in interaction Design, infor- mation Design, Linguistics, Photography, Typography, software engineering and Data science. over the past five years, Wiederkehr and his team have worked with national and international, private and public sector organizations of all sizes. Previous and current mandates include the swiss Confederation, the United Nations, the World economic Forum, swisscom, swiss Post, Migros, UBs, Credit suisse, PricewaterhouseCoopers, National Geographic, Neue Zürcher Zeitung, swiss National science Fund, ZHAW and eTH, among others.
+
+### Research
+Between 2005 and 2008, he has been studying the foundations of interaction design at the BA in Design program of the Zürich University of the Arts, earning a Bachelor’s Degree in Product Design with a specialization in interaction Design. Between 2012 and 2014, he has been studying visual models and interaction patterns in exploratory tools for personal financial information under the supervision of Dr. Prof. Gerhard Buurman and Dr. Prof. Karmen Franinovic at the MA in Design program of the Zürich University of the Arts. He has given lectures about information visualization and interface design at the Zurich University of the Arts «Tablet Lectures» (2011), UC Berkeley school of information «infor- mation Visualization» (2012), Haute École de Géstion Geneva «information Visualization» (2013), Potsdam University of Applied sciences «Urban Data Visualization» (2013), and Università iuav di Venezia «information Design» (2014).
+
+### Writing
+Beside his academic and professional work, Benjamin Wiederkehr continues to engage in the national and international design community at large. since 2009, he publishes insights from his research and work process in the field of data and information visualization on Datavisualization.ch (http://datavisualization.ch). The website, and the social media ecosystem surrounding it, has attracted a combined following of over 40’000 people. Between 2011 and 2013, he conducted and published a series of interviews with a selection of today’s most influential thinkers and makers under the title substratum series (http://substratumseries.com). The list of interviewees include Ben Fry, Casey reas, Zachary Lieberman, Golan Levin, Jake Barton, ivan Young, Natalie Jeremijenko, and ivan Poupyrev, among others.
+
+### Memberships and Mandates
+since 2010, he is part of the swiss chapter of the open Knowledge Foundation, opendata.ch, and helps to facilitate an open access to government data for everyone. in early 2014, he co-founded and since then leads together with sylke Gruhnwald, data-driven reporter with the Neue Zürcher Zeitung, the swiss chapter of the Hacks / Hackers Meetup series (http://hackshackers.com/zurich) where journalists and technologists explore the future of journalism. He serves on the Advisory Boards of the Places & spaces exhibition by the indiana University, UsA as nominated by curator Katy Börner (2011–present) and the smart City Demo Center by CMoDA in Beijing, China as nominated by exhibition director Lei Yang (2013–present).
+
+### Presentations
+He has been asked to present his thinking, research, and work at conferences including sXsW in Austin, UsA (2011, 2012), Data in sight in san Francisco, UsA (2011), see Conference in Wiesbaden, Germany (2011-2013), Lift Conference in Geneva, switzerland (2012, 2013), Ars electronica in Linz, Austria (2013), open Knowledge Conference in Geneva, switzerland (2013), Typotag in Munich, Germany (2013), if Book Then Conference in Milan, italy (2014), and the Visual- ized Conference in New York, UsA (2012, 2014), among others. Beside public conferences, he has been asked to present to companies and organizations including Mozilla in san Francisco, UsA (2011), schweizerische Bundeskanzlei in Berne, switzerland (2011), Linkedin in san Francisco, UsA (2012), UNeCe in Geneva, switzerland (2012), swiss radio and Televi- sion in Zürich, switzerland (2013), and Hacks / Hackers in New York, UsA (2014), among others.
+
+### Exhibitions
+His work has been shown at exhibitions including Places & spaces exhibition organized by indiana University in indiana, UsA (2011), Ville Vivante exhibition organized by LiFT in Geneva, switzerland (2012), Beijing Design Week organized by CMoDA in Beijing, China (2012), swiss Positions & swiss scales organized by Korea Foundation in seoul, Korea (2013), Nighttime Dreamreal organized by Power station of Art in shanghai, China (2013), Werkschau Grafik 14 in Zürich, swit- zerland (2014), and Big Bang Data, in Barcelona, spain (2014), among others.
+
+### Coverage
+His work has been featured in publications including WireD «Map a city’s mobile calls and you can boost urban plan- ning» (2012), Fast Company «A City Visualizes its own inner Workings, With infographics Powered By Cellular Data» (2012), The Huffington Post «education for All and Not Just for some» (2012), Al Jazeera «”education First” must put the marginalised at the centre» (2012), The Guardian «education attainment - disparities by country» (2012), and Page Magazine «»interactive storytelling» (2014), among others.
+
+### Publications
+He has been asked to contribute articles, essays, and interviews that have been published in Weave Magazine (2011), Page Magazine (2013), swiss Analytics Magazine (2014), and the upcoming book “New Challenges For Data Design” published by springer-Verlag (2014). A scientific paper about collaborative information visualization, co-authored with Dr. Martin eppler from the University of st. Gallen, has been accepted for the ieee Vis 2014 poster session.
+
+### Recognitions
+His work has been publicly recognized for excellence in information design by dpa-infografik: «swiss Maps», winner cat- egory interactive infographic, «Keine Zeit für Wut», winner category interactive infographic (2013), european Newspaper Award: «stabile Arbeitslosenquote», winner category Data Journalism, «Keine Zeit für Wut», winner category online and Crossmedia (2013), Global editors Network Data Journalism Award: «NZZ Data», winner Best Team or Newsroom Portfolio (2014), and Grimme online Award: «Du fliegst nur einmal», winner category Culture and entertainment (2014).
+
+## Curriculum Vitae
+
