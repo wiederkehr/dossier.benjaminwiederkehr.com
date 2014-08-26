@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-	<title><?= html($site->title()) ?></title>
+	<title><?= html($page->title()) ?> &mdash; <?= html($site->author()) ?></title>
   <!-- ——————————————————————————————————————————————————————————————————— META -->
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,7 +12,7 @@
   <meta name="Copyright" content="<?= $site->copyright() ?>" />
   <meta name="Distribution" content="Global" />
   <meta name="Language" content="EN" />
-  <meta name="Robots" content="ALL" />
+  <meta name="Robots" content="noindex" />
   <!-- ——————————————————————————————————————————————————————————————————— OPEN GRAPH -->
   <meta property="og:url" content="<?= html($site->url()) ?>" />
   <meta property="og:title" content="<?= html($site->title()) ?>" />

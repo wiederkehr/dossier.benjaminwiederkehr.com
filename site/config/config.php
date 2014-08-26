@@ -160,7 +160,7 @@ or markdown extra: http://michelf.com/projects/php-markdown/extra/
 
 c::set('markdown', true);
 c::set('markdown.breaks', true);
-c::set('markdown.extra', false);
+c::set('markdown.extra', true);
 
 
 /* 

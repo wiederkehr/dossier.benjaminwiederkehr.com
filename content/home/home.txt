@@ -6,4 +6,4 @@ Subtitle: Dossier
 
 ----
 
-Lead: Benjamin Wiederkehr is an Interaction Designer with a focus on information visualization and interface design. With his work, he explores opportunities to innovate through the combination of design and technology, to simplify complex data in order to raise awareness, comprehension and engagement, as well as to tell stories with an open intent and meaningful impact.
+Lead: Benjamin Wiederkehr is an Interaction Designer with a focus on information visualization and interface design. With his work, he explores opportunities to innovate through the combination of design and technology, to simplify complex data in order to raise awareness, and to tell stories with an open intent and meaningful impact.

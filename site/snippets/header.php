@@ -12,13 +12,17 @@
   <meta name="Copyright" content="<?= $site->copyright() ?>" />
   <meta name="Distribution" content="Global" />
   <meta name="Language" content="EN" />
-  <meta name="Robots" content="ALL" />
-  <meta property="og:title" content="<?= html($site->title()) ?>" />
-  <meta property="og:description" content="<?= html($site->description()) ?>" />
+  <meta name="Robots" content="noindex" />
+  <!-- ——————————————————————————————————————————————————————————————————— OPEN GRAPH -->
   <meta property="og:url" content="<?= html($site->url()) ?>" />
+  <meta property="og:title" content="<?= html($site->title()) ?>" />
+  <meta property="og:site_name" content="<?= html($site->name()) ?>" />
+  <meta property="og:description" content="<?= html($site->description()) ?>" />
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@wiederkehr">
+  <meta name="twitter:creator" content="@wiederkehr">
   <!-- ——————————————————————————————————————————————————————————————————— IMAGE -->
-  <link rel="image_src" href="assets/img/logos/benjaminwiederkehr_logo_dark.png" />
-  <meta property="og:image" content="assets/img/logos/benjaminwiederkehr_logo_dark.png" />
+  <meta property="og:image" content="<?= html($site->url()) ?>/assets/img/benjaminwiederkehr_share.png" />
   <!-- ——————————————————————————————————————————————————————————————————— FAVICON -->
   <link rel="icon" href="favicon.ico" type="image/x-icon" />
   <link rel="apple-touch-icon" href="apple-touch-icon.png"/>
