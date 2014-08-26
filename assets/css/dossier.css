@@ -226,6 +226,9 @@ h3.project__name {
 .project__image a:hover{
   color: #fff;
 }
+.project__image a.disabled{
+  cursor: default;
+}
 .project__image:hover{
 }
 .project__description {

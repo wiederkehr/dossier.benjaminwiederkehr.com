@@ -26,7 +26,7 @@
           </p>
         </div>
         <div class="project__image vspan-6">
-          <a href="#">Visit Project</a>
+          <a href="http://bachelor.benjaminwiederkehr.com/" target="_blank">Visit Project</a>
         </div>
       </div>
       <div class="project project--youcity span-6">
@@ -38,7 +38,7 @@
           </p>
         </div>
         <div class="project__image vspan-6">
-          <a href="#">Visit Project</a>
+          <a href="http://www.esri.com/software/cityengine/industries/youcity" target="_blank">Visit Project</a>
         </div>
       </div>
       <div class="project project--ecoplace span-12 last">
@@ -50,12 +50,12 @@
           </p>
         </div>
         <div class="project__image vspan-6">
-          <a href="#">Visit Project</a>
+          <a href="http://www.ecoplace.ch/" target="_blank">Visit Project</a>
         </div>
       </div>
       <div class="project project--villevivante span-24">
         <div class="project__image vspan-10">
-          <a href="#">Visit Project</a>
+          <a href="http://villevivante.ch/" target="_blank">Visit Project</a>
         </div>
         <div class="project__text vspan-2">
           <h3 class="project__name">Ville Vivante</h3>
@@ -71,7 +71,7 @@
       <p class="projects__claim">Making scientific insights accessible and understandable to anyone.</p>
       <div class="project project--wide span-9">
         <div class="project__image vspan-14">
-          <a href="#">Visit Project</a>
+          <a href="http://www.education-inequalities.org/" target="_blank">Visit Project</a>
         </div>
         <div class="project__text vspan-2">
           <h3 class="project__name">WIDE</h3>
@@ -83,7 +83,7 @@
       </div>
       <div class="project project--zhaw span-9">
         <div class="project__image vspan-14">
-          <a href="#">Visit Project</a>
+          <a href="http://expertisenkarte.zhaw.ch/" target="_blank">Visit Project</a>
         </div>
         <div class="project__text vspan-2">
           <h3 class="project__name">Competence Browser</h3>
@@ -95,7 +95,7 @@
       </div>
       <div class="project project--wef span-6 last">
         <div class="project__image vspan-4">
-          <a href="#">Visit Project</a>
+          <a href="http://reports.weforum.org/global-agenda-survey-2012/" target="_blank">Visit Project</a>
         </div>
         <div class="project__text vspan-2">
           <h3 class="project__name">Global Agenda Councils</h3>
@@ -107,7 +107,7 @@
       </div>
       <div class="project project--snsf span-6 last">
         <div class="project__image vspan-4">
-          <a href="#">Visit Project</a>
+          <a href="#" class="disabled">Data is Confidential</a>
         </div>
         <div class="project__text vspan-2">
           <h3 class="project__name">Portfolio Browser</h3>
@@ -130,7 +130,7 @@
           </p>
         </div>
         <div class="project__image vspan-6">
-          <a href="#">Visit Project</a>
+          <a href="#" class="disabled">Application is Confidential</a>
         </div>
       </div>
       <div class="project project--allfinance span-10 last">
@@ -142,12 +142,12 @@
           </p>
         </div>
         <div class="project__image vspan-6">
-          <a href="#">Visit Project</a>
+          <a href="#" class="disabled">Application is Confidential</a>
         </div>
       </div>
       <div class="project project--hellowallet span-10">
         <div class="project__image vspan-10">
-          <a href="#">Visit Project</a>
+          <a href="http://www.hellowallet.com/" target="_blank">Visit Project</a>
         </div>
         <div class="project__text vspan-2">
           <h3 class="project__name">Savings Management Application</h3>
@@ -159,7 +159,7 @@
       </div>
       <div class="project project--master span-14 last">
         <div class="project__image vspan-10">
-          <a href="#">Visit Project</a>
+          <a href="http://master.benjaminwiederkehr.com/" target="_blank">Visit Project</a>
         </div>
         <div class="project__text vspan-2">
           <h3 class="project__name">Exploratory Tools for Personal Finance</h3>
@@ -175,7 +175,7 @@
       <p class="projects__claim">Telling data-driven narratives with an open intent and meaningful impact.</p>
       <div class="project project--frauenwelten span-12">
         <div class="project__image vspan-10">
-          <a href="#">Visit Project</a>
+          <a href="http://www.nzz.ch/aktuell/data/interaktive-datenvisualisierung-frauenwelten-in-zahlen-1.18168444" target="_blank">Visit Project</a>
         </div>
         <div class="project__text vspan-2">
           <h3 class="project__name">Frauenwelten</h3>
@@ -187,7 +187,7 @@
       </div>
       <div class="project project--lobbyisten span-12 last">
         <div class="project__image vspan-10">
-          <a href="#">Visit Project</a>
+          <a href="http://www.nzz.ch/schweiz/die-wahren-interessen-der-lobbyisten-1.18255372" target="_blank">Visit Project</a>
         </div>
         <div class="project__text vspan-2">
           <h3 class="project__name">Lobbyisten</h3>
@@ -199,7 +199,7 @@
       </div>
       <div class="project project--weltenbrand span-12">
         <div class="project__image vspan-10">
-          <a href="#">Visit Project</a>
+          <a href="http://www.nzz.ch/international/weltkrieg/weltenbrand-chronik-des-ersten-weltkriegs-1.18331813" target="_blank">Visit Project</a>
         </div>
         <div class="project__text vspan-2">
           <h3 class="project__name">Weltenbrand</h3>
@@ -211,7 +211,7 @@
       </div>
       <div class="project project--fukushima span-12 last">
         <div class="project__image vspan-10">
-          <a href="#">Visit Project</a>
+          <a href="http://fukushima.nzz.ch/" target="_blank">Visit Project</a>
         </div>
         <div class="project__text vspan-2">
           <h3 class="project__name">Fukushima</h3>
