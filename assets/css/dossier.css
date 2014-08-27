@@ -165,7 +165,7 @@ VITA
 /*
 STUDIO
 /////////////////////////////////////////////////////////////////*/
-.team-members{
+.row{
   clear: both;
   overflow: hidden;
 }
@@ -180,7 +180,17 @@ h3.member__name {
 }
 .member__role { 
 }
-.member__title { 
+.member__title {
+}
+.clients__list{
+}
+.clients{
+  clear: both;
+  overflow: hidden;
+}
+.expertise{
+  clear: both;
+  overflow: hidden;
 }
 /*
 WORK

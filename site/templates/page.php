@@ -17,7 +17,7 @@
   </div>
   <!-- ——————————————————————————————————————————————————————————————————— Sidebar -->
   <div id="sidebar" class="span-5 secondary">
-    <?= snippet($page->title().'-sidebar') ?>
+    <?= snippet(strtolower($page->title().'-sidebar')) ?>
   </div>
 </div><!-- .container -->
 <?= snippet('page-footer') ?>
