@@ -223,5 +223,11 @@
       </div>
     </div>
   </div>
+  <!-- ——————————————————————————————————————————————————————————————————— Pagination -->
+  <div class="pagination">
+    <a class="pagination-previous" href="<?= url('/vita') ?>"><i class="icon-arrow-left"></i>Vita</a>
+    <a class="pagination-overview" href="#"><i class="icon-arrow-up"></i>Top</a>
+    <a class="pagination-next" href="<?= url('/studio') ?>">Studio<i class="icon-arrow-right"></i></a>
+  </div>
 </div><!-- .container -->
 <?= snippet('page-footer') ?>

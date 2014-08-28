@@ -19,5 +19,11 @@
   <div id="sidebar" class="span-5 secondary">
     <?= snippet(strtolower($page->title().'-sidebar')) ?>
   </div>
+  <!-- ——————————————————————————————————————————————————————————————————— Pagination -->
+  <div class="pagination">
+    <a class="pagination-previous" href="<?= url('/') ?>"><i class="icon-arrow-left"></i>Home</a>
+    <a class="pagination-overview" href="#"><i class="icon-arrow-up"></i>Top</a>
+    <a class="pagination-next" href="<?= url('/work') ?>">Work<i class="icon-arrow-right"></i></a>
+  </div>
 </div><!-- .container -->
 <?= snippet('page-footer') ?>

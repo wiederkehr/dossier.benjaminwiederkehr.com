@@ -173,5 +173,11 @@ Interactive Things helps their clients to work smarter, make better decisions an
       </div>
     </div>
   </div>
+  <!-- ——————————————————————————————————————————————————————————————————— Pagination -->
+  <div class="pagination">
+    <a class="pagination-previous" href="<?= url('/work') ?>"><i class="icon-arrow-left"></i>Work</a>
+    <a class="pagination-overview" href="#"><i class="icon-arrow-up"></i>Top</a>
+    <a class="pagination-next" href="<?= url('/') ?>">Home<i class="icon-arrow-right"></i></a>
+  </div>
 </div><!-- .container -->
 <?= snippet('page-footer') ?>
