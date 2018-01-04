@@ -27,6 +27,8 @@
   <link rel="icon" href="<?= html($site->url()) ?>/assets/img/favicon.ico" type="image/x-icon" />
   <!-- ——————————————————————————————————————————————————————————————————— CSS -->
   <?= css('assets/css/style.css') ?>
+  <?= css('assets/css/responsive.css') ?>
+  <?= css('assets/css/dossier.css') ?>
   <!-- ——————————————————————————————————————————————————————————————————— JS -->
   <script src="http://use.typekit.com/aea1puq.js"></script>
   <script>try{Typekit.load();}catch(e){}</script>

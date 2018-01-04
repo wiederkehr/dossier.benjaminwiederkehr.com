@@ -24,8 +24,7 @@
   <!-- ——————————————————————————————————————————————————————————————————— IMAGE -->
   <meta property="og:image" content="<?= html($site->url()) ?>/assets/img/teaser_<?= strtolower($page->title()) ?>.png" />
   <!-- ——————————————————————————————————————————————————————————————————— FAVICON -->
-  <link rel="icon" href="favicon.ico" type="image/x-icon" />
-  <link rel="apple-touch-icon" href="apple-touch-icon.png"/>
+  <link rel="icon" href="<?= html($site->url()) ?>/assets/img/favicon.ico" type="image/x-icon" />
   <!-- ——————————————————————————————————————————————————————————————————— CSS -->
   <?= css('assets/css/style.css') ?>
   <?= css('assets/css/responsive.css') ?>
