@@ -13,6 +13,8 @@ Deploy changed files to server via FTP.
 ## Dependencies
 * [Kirby](https://getkirby.com/)
 * [Typekit](https://typekit.com/)
+* [jQuery 2.0.2](https://github.com/jquery/jquery)
+* [jQuery.ScrollTo](https://github.com/flesler/jquery.scrollTo)
 
 ## Author
 [Benjamin Wiederkehr](http://benjaminwiederkehr.com)
