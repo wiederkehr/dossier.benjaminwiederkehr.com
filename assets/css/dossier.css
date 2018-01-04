@@ -16,7 +16,7 @@ h3     { font-weight: bold; margin-bottom: 0.5em;}
 /////////////////////////////////////////////////////////////////*/
 h3.ui,
 h2.divider-headline,
-#sidebar h3{ 
+#sidebar h3{
   border-bottom: 3px solid #d4d5d3;
   color: #aaa;
   font-family: "Helvetica", Arial, sans-serif;
@@ -30,7 +30,7 @@ h2.divider-headline,
 /////////////////////////////////////////////////////////////////*/
 #header         	{ padding-top: 30px;}
 #header h1        { margin: 0;}
-#header h1 a    	{ display: block; background: url('../img/logos/benjaminwiederkehr_logo_dark.png') -20px 0 no-repeat;}
+#header h1 a    	{ display: block; background: url('../img/logos/benjaminwiederkehr_logo.png') -20px 0 no-repeat;}
 #header h1 a img	{ margin: 0 0 0 -20px; float: none;}
 
 /* CONTENT
@@ -46,7 +46,7 @@ h2.divider-headline,
 #content-header h1{ font-size: 32px; margin: 0; font-weight: bold; text-transform: uppercase;}
 #content-header h2{ font-size: 32px; color: #aaa; margin: 0 0 1em; font-weight: normal; text-transform: uppercase;}
 
-#content-header .lead{ 
+#content-header .lead{
   font: italic 18px / 1.5 "Georgia", Georgia, serif;
   margin-bottom: 0;
 }
@@ -112,14 +112,14 @@ IMAGE CONTAINER
   background-position: 50%;
   height: 600px;
 }
-.image-container #content-header{ 
+.image-container #content-header{
   color: #fff;
 }
-.image-container #content-header h1{ 
+.image-container #content-header h1{
   color: #fff;
 }
 .image-container #content-header h2{
-  color: #aaa; 
+  color: #aaa;
 }
 .header-image--vita{
   background-image: url('../img/header_vita.png');
@@ -133,7 +133,7 @@ IMAGE CONTAINER
 }
 /* PAGE
 /////////////////////////////////////////////////////////////////*/
-.page-content h3 { 
+.page-content h3 {
   font-family: "ff-netto-web",sans-serif;
   font-size: 20px;
   margin: 2.5em 0 0.5em;
@@ -145,7 +145,7 @@ IMAGE CONTAINER
   /*font-size: 16px;*/
 }
 .page-content .divider-headline{
-  margin-top: 20px; 
+  margin-top: 20px;
   margin-top: 100px;
   clear: both;
 }
@@ -169,8 +169,8 @@ STUDIO
   clear: both;
   overflow: hidden;
 }
-h3.member__name { 
-  font-size: 18px; 
+h3.member__name {
+  font-size: 18px;
 }
 .member__description {
   font: italic 14px/21px "Georgia", Georgia, serif; color: #aaa;
@@ -178,7 +178,7 @@ h3.member__name {
 .member__description span{
   display: block;
 }
-.member__role { 
+.member__role {
 }
 .member__title {
 }
@@ -207,8 +207,8 @@ WORK
   background: #ddd;
   margin-bottom: 10px;
 }
-h3.project__name { 
-  font-size: 18px; 
+h3.project__name {
+  font-size: 18px;
   margin-top: 0;
   color: #fff;
 }
@@ -404,13 +404,13 @@ SECONDARY
 
 /* SIDEBAR
 /////////////////////////////////////////////////////////////////*/
-#sidebar{ 
+#sidebar{
   float: left;
-  padding-top: 50px; 
+  padding-top: 50px;
 }
 #sidebar h3{
-  margin-top: 50px; 
-  margin-bottom: 15px; 
+  margin-top: 50px;
+  margin-bottom: 15px;
 }
 #sidebar p.sidebar-lead { font: italic 14px/21px "Georgia", Georgia, serif; color: #aaa; margin-top: 36px;}
 
@@ -430,7 +430,7 @@ SECONDARY
 
 /* META
 /////////////////////////////////////////////////////////////////*/
-.meta{ 
+.meta{
   border-top: none;
 }
 .meta__panel{
@@ -467,12 +467,12 @@ SECONDARY
 /*
 CREDITS
 /////////////////////////////////////////////////////////////////*/
-.pagination   { 
-  font-size: 11px; 
-  position: relative; 
-  clear: both; 
-  border-top: 1px solid #d4d5d3; 
-  padding: 36px 0; 
+.pagination   {
+  font-size: 11px;
+  position: relative;
+  clear: both;
+  border-top: 1px solid #d4d5d3;
+  padding: 36px 0;
   overflow: hidden;
 }
 .pagination a { color: #aaa; line-height: 1.5;}
